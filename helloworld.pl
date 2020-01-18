@@ -26,4 +26,4 @@ parent(pat,jim).
 
 % 2.a Pat's Parent ,bob
 % 2.b Liz have child, yes->tom
-% 2.c ann
+% 2.c Who is pat's grandparent ,ann
